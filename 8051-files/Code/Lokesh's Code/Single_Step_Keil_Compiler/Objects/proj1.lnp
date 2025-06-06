@@ -1,3 +1,0 @@
-".\Objects\Cone.obj" 
-TO ".\Objects\proj1" 
-PRINT(".\Listings\proj1.m51") RAMSIZE(256) 
